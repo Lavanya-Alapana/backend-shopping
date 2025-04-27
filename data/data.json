@@ -1,0 +1,159 @@
+[
+    {
+      "brand": "iQOO",
+      "originalPrice":25999,
+      "discountPrice": 19998,
+      "description": "iQOO Z9s 5G (Onyx Green, 8GB RAM, 128GB Storage) | 120 Hz 3D Curved AMOLED Display | 5500 mAh Ultra-Thin Battery | Dimesity 7300 5G Processor | Sony IMX882 OIS Camera with Aura Light",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742895326/mobile-shop/zza8hibm0wsvqzbxxdyf.jpg",
+      "category": "Smartphones"
+    },
+    {
+      "brand": "OnePlus",
+      "originalPrice":44999,
+      "discountPrice": 42998,
+      "description": "OnePlus 13R | Smarter with OnePlus AI (12GB RAM, 256GB Storage Astral Trail)",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742895440/mobile-shop/o32ier7lsjw1fjppxh6n.jpg",
+      "category": "Smartphones"
+    },
+    {
+      "brand": "iQOO",
+      "originalPrice":33999,
+      "discountPrice": 28999,
+      "description": "iQOO Neo 10R 5G (Raging Blue, 8GB RAM, 256GB Storage) | Snapdragon 8s Gen 3 Processor | India's Slimmest 6400mAh Battery Smartphone | Segment's Most Stable 90FPS for 5 Hours",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742895506/mobile-shop/azhtlgawsjmh812995kh.jpg",
+      "category": "Smartphones"
+    },
+    {
+      "brand": "OnePlus",
+      "originalPrice": 20999,
+      "discountPrice":17998,
+      "description": "OnePlus Nord CE4 Lite 5G (Super Silver, 8GB RAM, 128GB Storage)",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742895561/mobile-shop/eoumfyzoq4bjgpmfwewu.jpg",
+      "category": "Smartphones"
+    },
+    {
+      "brand": "realme",
+      "originalPrice": 8999,
+      "discountPrice":7498,
+      "description": "realme NARZO N61 (Voyage Blue,4GB RAM+64GB Storage) 90Hz Eye Comfort Display | IP54 Dust & Water Resistance | 48-Month Fluency | Charger in The Box",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742895679/mobile-shop/lts7bymdsljdqxwofhod.jpg",
+      "category": "Smartphones"
+    },
+    {
+      "brand": "redmi",
+      "originalPrice": 11999,
+      "discountPrice":8999,
+      "description": "Redmi A4 5G (Sparkle Purple, 4GB RAM, 128GB Storage) | Global Debut SD 4s Gen 2 | Segment Largest 6.88in 120Hz | 50MP Dual Camera | 18W Fast Charging",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742895765/mobile-shop/z4urbknqmrvoj8hnca4v.jpg",
+      "category": "Gaming Phones"
+    },
+    {
+      "brand": "redmi",
+      "originalPrice": 8299,
+      "discountPrice":10999,
+      "description": "Redmi A4 5G (Sparkle Purple, 4GB RAM, 64GB Storage) | Global Debut SD 4s Gen 2 | Segment Largest 6.88in 120Hz | 50MP Dual Camera | 18W Fast Charging",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742895851/mobile-shop/t5ijpxzjvpcgygetsoig.jpg",
+      "category": "Foldable Phones"
+    },
+    {
+      "brand": "iQOO",
+      "originalPrice": 33999,
+      "discountPrice":22999,
+      "description": "iQOO Neo 10R 5G (Moonknight Titanium, 8GB RAM, 256GB Storage) | Snapdragon 8s Gen 3 Processor | India's Slimmest 6400mAh Battery Smartphone | Segment's Most Stable 90FPS for 5 Hours",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742895925/mobile-shop/yg7nfc39y9ne3865jsq9.jpg",
+      "category": "Foldable Phones"
+    },
+    {
+      "brand": "OnePlus",
+      "originalPrice": 32999,
+      "discountPrice":28998,
+      "description": "OnePlus Nord 4 5G (Oasis Green, 8GB RAM, 256GB Storage)",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742897798/mobile-shop/iinnodztxzqp6lis8elo.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "Samsung Galaxy ",
+      "originalPrice": 17499,
+      "discountPrice":13999,
+      "description": "Samsung Galaxy M16 5G (Mint Green, 6GB RAM, 128 GB Storage) | MediaTek Dimensity 6300 | AnTuTu Score 422K+ | Super Amoled Display | 25W Fast Charging | 6 Gen. of OS Upgrades | Without Charger",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742897855/mobile-shop/j9lhzzvxtegr9vh3xp47.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "Samsung Galaxy S25",
+      "originalPrice": 139999,
+      "discountPrice":129999,
+      "description": "Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium Silverblue, 12GB RAM, 256GB Storage), 200MP Camera, S Pen Included, Long Battery Life",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742897945/mobile-shop/pymnxoiac7zostk20lgl.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "Tecno",
+      "originalPrice": 11999,
+      "discountPrice":9999,
+      "description": "Tecno POP 9 5G Midnight Shadow, 4GB+128GB| Segment's 1st 48MP Sony AI Camera| Segment's 1st 5G with NFC |D6300 5G Processor |4+ Year Lag Free Fluency |5000 mAh Battery |Dual Speaker |Without Charger",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742898033/mobile-shop/yq1jusxje2rvyzu2wzdy.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "Samsung Galaxy S24",
+      "originalPrice": 12999,
+      "discountPrice":10999,
+      "description": "Samsung Galaxy S25 Ultra 5G AI Smartphone (Titanium WhiteSilver, 12GB RAM, 256GB Storage), 200MP Camera, S Pen Included, Long Battery Life",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742898205/mobile-shop/a61xdppjgfb5haonboqm.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "iQOO",
+      "originalPrice": 27999,
+      "discountPrice":19499,
+      "description": "iQOO Z7 Pro 5G (Blue Lagoon, 8GB RAM, 256GB Storage) | 3D Curved AMOLED Display | 4nm MediaTek Dimesity 7200 5G Processor | 64MP Aura Light OIS Camera | Segment's Slimmest & Lightest Smartphone",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742898266/mobile-shop/jwqsx5gkw2mvwj3df16a.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "Tecno",
+      "originalPrice": 8499,
+      "discountPrice":6299,
+      "description": "Tecno POP 9 (Glittery White, 3GB+64GB) |India's 1st Mediatek G50 | IP54 Rated | IR Remote | Dual Speaker with DTS | 36 Month Lag Free Fluency | 15W Fast Charging Support | 5000 mAh Battery",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742898330/mobile-shop/pcms8akdfivnhtoaniaj.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "POCO",
+      "originalPrice": 8999,
+      "discountPrice":5799,
+      "description": "POCO C61 Ethereal Blue 4GB RAM 64GB ROM",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742898397/mobile-shop/bnwne8atuwz0xlhbdixl.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "iQOO",
+      "originalPrice": 59999,
+      "discountPrice":41999,
+      "description": "iQOO 12 5G (Legend, 12GB RAM, 256GB Storage)",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742898457/mobile-shop/fhbnijiksbies4teofof.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "HONOR",
+      "originalPrice": 39999,
+      "discountPrice":24998,
+      "description": "HONOR 200 5G (Black, 8GB + 256GB) | 6.7-inch AMOLED Quad-Curved Display | Dual OIS 50MP + 50MP + 12MP Camera | 50MP Selfie Camera | AI-Powered MagicOS 8.0 | Without Charger.",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742898524/mobile-shop/zohqc8vjxtgmrvw4qbsx.jpg",
+      "category": "Budget Phones"
+    },
+    {
+      "brand": "Redmi",
+      "originalPrice": 24999,
+      "discountPrice":20998,
+      "description": "Redmi Note 14 5G (Phantom Purple, 8GB RAM 256GB Storage) | Global Debut MTK Dimensity 7025 Ultra | 2100 nits Segment Brightest 120Hz AMOLED | 50MP Sony LYT 600 OIS+EIS Triple Camera",
+      "image": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742898695/mobile-shop/ml9caon4zzyrgznxhndz.jpg",
+      "category": "Budget Phones"
+    }
+
+    
+
+
+  ]
+  

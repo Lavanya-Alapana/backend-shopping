@@ -1,0 +1,77 @@
+[
+    {
+        "name":"Ashan Sayed",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474668/mobile-shop/yncuavpdg2eznqfyi3gi.png",
+        "rating":5,
+        "comment":"Bought Samsung Galaxy refurbished.Good quality and fast delivery.Highly recommended",
+        "date":"July 17,2024"
+    },
+    {
+        "name":"Md Firoj",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474622/mobile-shop/i8qgzsdelkgsbjblmint.png",
+        "rating":5,
+        "comment":"Had a small issue with the product but the customer service was excellent and they resolved it quickly",
+        "date":"June 17,2024"
+    },
+    {
+        "name":"Guddu Singh",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474595/mobile-shop/szmszdb6vgrxwitr5irl.png",
+        "rating":5,
+        "comment":"Like New condition! Bought a refurbished Dell laptop and it looks brand new.Very happy with the purchase",
+        "date":"October 5,2024"
+    },
+    {
+        "name":"Prabhu Ray",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474566/mobile-shop/lrgode0x0yghnd8kv1nr.png",
+        "rating":5,
+        "comment":"My refurbished Mackbook Pro is a beast! Handles all my work tasks and video editing effortlessly.",
+        "date":"February 9,2024"
+    },
+    {
+        "name":"Dinkar Jha",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474472/mobile-shop/s52mjswf8li0zqipooyb.png",
+        "rating":5,
+        "comment":"Budget friendly and good quality products",
+        "date":"March 5,2024"
+    },
+    {
+        "name":"Gopal sahu",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474231/mobile-shop/jturxrbnx8vgur8vpg2t.png",
+        "rating":5,
+        "comment":"",
+        "date":"April 2,2024"
+    },
+
+    {
+        "name":"Raj Kumar Singh",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474196/mobile-shop/tqk92g3hljrjvntghxph.png",
+        "rating":5,
+        "comment":"Got a refurbished phone for my kid and its perfect.Great features at an affordable price",
+        "date":"July 27,2024"
+    },
+   
+    {
+        "name":"Anuj Ranjann Singh",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474166/mobile-shop/jfbtleddhfq8tggo4r5q.png",
+        "rating":5,
+        "comment":"My refurbished phone exceeded my expectations.Battery life is amazing and the camera quality is top notch",
+        "date":"July 29,2024"
+    },
+    {   "name":"Dilesh kumar",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474136/mobile-shop/olvmyjzdt9md8dzueqmd.png",
+        "rating":5,
+        "comment":"",
+        "date":"April 29,2024"
+        
+    },
+    {
+        "name":"Sandeep",
+        "profilePic":"https://res.cloudinary.com/decxhwk1i/image/upload/v1742474106/mobile-shop/ebkj3l3ztdllhaxam2ui.png",
+        "rating":5,
+        "comment":"iphone 12 pro max is a great phone and the refurbished one I bought is as good as new",
+        "date":"December 29,2024"
+    }
+    
+    
+
+]

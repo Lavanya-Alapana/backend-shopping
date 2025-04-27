@@ -1,0 +1,138 @@
+[
+    {
+        "name": "Vivo X100 Pro Refurbished",
+        "brand": "VIVO",
+        "originalPrice": 88999,
+        "discountedPrice": 52999,
+        "discountPercentage": 40,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742405229/mobile-shop/jgjt8kzfjw8xi95sdrq9.jpg",
+        "category": "Smartphone",
+        "stock": 10,
+        "refurbished": true
+      },
+      {
+        "name": "Vivo X100 Refurbished",
+        "brand": "VIVO",
+        "originalPrice": 71999,
+        "discountedPrice": 41999,
+        "discountPercentage": 42,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742405404/mobile-shop/mbjijdnz1ppa6mskrmhf.jpg",
+        "category": "Smartphone",
+        "stock": 8,
+        "refurbished": true
+      },
+      {
+        "name": "Vivo X80 Pro Refurbished",
+        "brand": "VIVO",
+        "originalPrice": 72999,
+        "discountedPrice": 27999,
+        "discountPercentage": 62,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742405652/mobile-shop/igbd0p1phuxlm85lhu7m.jpg",
+        "category": "Smartphone",
+        "stock": 5,
+        "refurbished": true
+      },
+      {
+        "name": "Vivo X80 Refurbished",
+        "brand": "VIVO",
+        "originalPrice": 38999,
+        "discountedPrice": 24599,
+        "discountPercentage": 37,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742405476/mobile-shop/xw1qewugwypdahwy2dye.jpg",
+        "category": "Smartphone",
+        "stock": 3,
+        "refurbished": true
+      },
+      {
+        "name": "Apple Iphone 16 Pro",
+        "brand": "APPLE",
+        "originalPrice": 12900000,
+        "discountedPrice": 92999,
+        "discountPercentage": 28,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742406440/mobile-shop/x1se6am9y4svz0sy8dgo.png",
+        "category": "Smartphone",
+        "stock": 3,
+        "refurbished": true
+      },
+      {
+        "name": "Apple Iphone 16 Second Hand",
+        "brand": "APPLE",
+        "originalPrice": 78999,
+        "discountedPrice": 62500,
+        "discountPercentage": 21,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742406546/mobile-shop/ync6tg2zzgubytfxhx7s.jpg",
+        "category": "Smartphone",
+        "stock": 5,
+        "refurbished": true
+      },
+      {
+        "name": "IPHONE COMBO OFFER - Spigen clear Cover + Screen Protecter + Camera Lens",
+        "brand": "SPIGEN",
+        "originalPrice": 3199,
+        "discountedPrice": 1399,
+        "discountPercentage": 56,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742406657/mobile-shop/jr5zmitmokvjynxqia7i.jpg",
+        "category": "Smartphone",
+        "stock": 7,
+        "refurbished": true
+      },
+      {
+        "name": "OnePlus 11 5G Secondhand",
+        "brand": "ONEPLUS",
+        "originalPrice": 60999,
+        "discountedPrice": 26999,
+        "discountPercentage": 56,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742406892/mobile-shop/v6kq0483wynyet26q8nr.jpg",
+        "category": "Smartphone",
+        "stock": 4,
+        "refurbished": true
+      },
+      {
+        "name": "Apple Iphone 13 Refurbished",
+        "brand": "APPLE",
+        "originalPrice": 78999,
+        "discountedPrice": 33999,
+        "discountPercentage": 56,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742406955/mobile-shop/vs3half3xrqj0a1xbsla.jpg",
+        "category": "Smartphone",
+        "stock": 2,
+        "refurbished": true
+      },
+      {
+        "name": "Apple Iphone 12 Pro Max Refurbished",
+        "brand": "APPLE",
+        "originalPrice": 119000,
+        "discountedPrice": 44599,
+        "discountPercentage": 63,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742407018/mobile-shop/siidy97ng0bsxm6dzi9q.jpg",
+        "category": "Smartphone",
+        "stock": 3,
+        "refurbished": true
+      },
+      {
+        "name": "Samsung Galaxy z Flip3 Refurbshied",
+        "brand": "SAMSUNG",
+        "originalPrice": 59999,
+        "discountedPrice": 24999,
+        "discountPercentage": 58,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742407081/mobile-shop/cq27wt09jkcpftufmavz.jpg",
+        "category": "Smartphone",
+        "stock": 3,
+        "refurbished": true
+      },
+      
+      {
+        "name": "Google Pixel 7 Pro Refurbished",
+        "brand": "GOOGLE",
+        "originalPrice": 66799,
+        "discountedPrice": 33999,
+        "discountPercentage": 49,
+        "imageUrl": "https://res.cloudinary.com/decxhwk1i/image/upload/v1742407134/mobile-shop/yotbakciah972td1lr4k.jpg",
+        "category": "Smartphone",
+        "stock": 1,
+        "refurbished": true
+      }
+      
+
+
+]
