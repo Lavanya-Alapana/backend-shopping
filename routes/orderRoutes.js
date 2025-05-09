@@ -6,7 +6,7 @@ const router = express.Router();
 
 router.post("/place", placeOrder);
 
-router.get('/get',getOrders);
+router.get("/get",getOrders);
 
 
 
