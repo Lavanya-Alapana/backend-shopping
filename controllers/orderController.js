@@ -60,8 +60,8 @@ const getOrders = async (req, res) => {
       return res.status(401).json({ message: "Missing Authorization header" });
     }
 
-    const token = authHeader; // No "Bearer " prefix
-    const decoded = jwt.verify(token, "mySuperSecretKey123"); // Replace with your secret
+    const token = authHeader; 
+    const decoded = jwt.verify(token, "mySuperSecretKey123"); 
     const userId = decoded.id;
 
     const orders = await Order.find({ user: userId })
