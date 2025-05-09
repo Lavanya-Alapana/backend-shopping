@@ -52,6 +52,7 @@ const placeOrder = async (req, res) => {
 
 
 
+
 const getOrders = async (req, res) => {
   try {
     const authHeader = req.headers.authorization;
@@ -60,22 +61,31 @@ const getOrders = async (req, res) => {
       return res.status(401).json({ message: "Missing Authorization header" });
     }
 
-    const token = authHeader; 
-    const decoded = jwt.verify(token, "mySuperSecretKey123"); 
+    const token = authHeader; // assuming token is passed directly (without "Bearer " prefix)
+    
+    // Verify the JWT token
+    const decoded = jwt.verify(token, process.env.JWT_SECRET);
+    
     const userId = decoded.id;
 
-    const orders = await Order.find({ user: userId })
-      .populate("items.product")
-      .exec();
+    const orders = await Order.find({ user: userId }).populate("items.product").exec();
 
     if (!orders.length) {
       return res.status(404).json({ message: "No orders found for this user." });
     }
 
     res.status(200).json({ orders });
-
+    
   } catch (error) {
     console.error("Error fetching orders:", error);
+    
+    // Handle errors (invalid token, expired token, etc.)
+    if (error.name === 'JsonWebTokenError') {
+      return res.status(400).json({ message: "Invalid token" });
+    }
+    if (error.name === 'TokenExpiredError') {
+      return res.status(400).json({ message: "Token has expired" });
+    }
     res.status(500).json({ message: "Error fetching orders", error });
   }
 };
